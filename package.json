@@ -1,5 +1,5 @@
 {
-  "name": "expiry-alert-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Backend for Expiry Alert System",
   "main": "server.js",
